@@ -1,7 +1,9 @@
 git add requirements.txt
-git commit -m "Added matplotlib to requirements.txt"
+git commit -m "Update requirements.txt"
 git push
 
-streamlit
-pandas
-matplotlib
+
+
+streamlit==1.16.0
+pandas==2.1.0
+matplotlib==3.7.1
